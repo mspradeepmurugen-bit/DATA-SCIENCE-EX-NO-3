@@ -43,8 +43,11 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+<img width="889" height="901" alt="Screenshot 2025-12-27 115553" src="https://github.com/user-attachments/assets/10dfd683-9f34-482e-9cd5-adad7defa626" />
+<img width="886" height="468" alt="Screenshot 2025-12-27 115609" src="https://github.com/user-attachments/assets/89a99318-d091-4ef0-903b-599cdf565675" />
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus the program to implement the linear regression using gradient descent is written and verified using 
+Python programming.
 
        
